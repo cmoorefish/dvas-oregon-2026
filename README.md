@@ -6,7 +6,7 @@ Markdown
 ---
 
 ## 📖 Official Documents
-* **[View Full Proposal (Direct Link)](https://github.com/YOUR_USERNAME/dvas-oregon-2026/raw/main/DVAS_2026_Proposal.pdf)**
+* **[View Full Proposal (Direct Link)](https://github.com/cmoorefish/dvas-oregon-2026/raw/main/DVAS_2026_Proposal.pdf)**
   *(Note: This link bypasses the previewer to ensure the document loads instantly.)*
 
 ---
