@@ -23,7 +23,7 @@ This local initiative aims to protect District 52 elections from AI-generated mi
 
 
 ## 📚 Project Documentation
-* ⚖️ **[Vision & Mission](./vision.md)** - Why we are building DVAS for District 52.
+* ⚖️ **[Vision & Mission](./Vision.md)** - Why we are building DVAS for District 52.
 * ❓ **[Official FAQ](./OFFICIAL_FAQ.md)** - Common questions for Election Officials.
 * 📄 **[Technical Whitepaper](./TECHNICAL_WHITEPAPER.md)** - Cryptographic Proof details.
 * 🗺️ **[Project Roadmap](./ROADMAP.md)** - Key dates for the 2026 Primary cycle.
