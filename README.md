@@ -1,4 +1,3 @@
-Markdown
 
 # 🗳️ DVAS 2026: Donor Verification Accountability System
 **A technical pilot proposal for Oregon's May 19, 2026 Primary Election.**
