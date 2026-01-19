@@ -5,8 +5,8 @@
 ---
 
 ## 📖 Official Documents
-* **[View Full Proposal (Direct Link)](https://github.com/cmoorefish/dvas-oregon-2026/raw/main/DVAS_2026_Proposal.pdf)**
-  *(Note: This link bypasses the previewer to ensure the document loads instantly.)*
+* 📂 **[Download the DVAS 2026 Proposal (PDF)](https://github.com/cmoorefish/dvas-oregon-2026/raw/main/DVAS_2026_Proposal.pdf)**
+  > ⚠️ **Note:** GitHub's PDF preview is currently unavailable for this file. Please click the link above to download and view the document directly.  *(Note: This link bypasses the previewer to ensure the document loads instantly.)*
 
 ---
 
