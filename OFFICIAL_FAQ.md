@@ -21,3 +21,20 @@ DVAS is a Parallel Transparency Layer. Because it is not integrated into the air
 5. How does DVAS handle the "Postmark Rule" and late data?
 
 DVAS logic follows the ORS 254.485 standards. It timestamps cryptographic proofs in real-time. For the 2026 pilot, it will provide a secondary timestamp that assists auditors in reconciling late-arriving campaign contributions with their verification status.
+### 5. Does DVAS conflict with Citizens United?
+No. In fact, DVAS fulfills the "missing promise" of the Citizens United decision. 
+
+Justice Kennedy's majority opinion assumed that "prompt disclosure" would allow voters to see who was paying for ads. However, this led to "Dark Money" because groups feared harassment if they disclosed names. 
+
+DVAS solves this using Zero-Knowledge Proofs (ZKP):
+* **For Donors:** It protects First Amendment privacy. You can prove you are an "Eligible Individual" or a "Registered Oregon Voter" without revealing your name or home address to the public.
+* **For Auditors:** It provides 100% certainty. While the public doesn't see a name, the DVAS ledger shows a mathematical "Proof of Eligibility." This ensures that 100% of the funds came from legal, verified sources.
+
+### 6. How does DVAS stop Foreign Interference?
+Foreign entities often use shell LLCs to funnel money into U.S. elections—a major loophole in the post-Citizens United era. 
+
+DVAS acts as a "Digital Firewall":
+* Every contribution must be accompanied by a DVAS "Citizenship Proof."
+* This proof is generated locally on the user's device (using encrypted ID data) and sent to the ledger.
+* If a contribution lacks this cryptographic proof, the system flags it immediately as "High Risk for Foreign Influence."
+* This allows auditors to spot and block foreign money *before* it is spent, rather than months after the election is over.
